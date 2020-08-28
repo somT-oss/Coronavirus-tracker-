@@ -17,3 +17,7 @@ covid19_data
 
 This runs the development server on your local machine 
 Port 8000
+
+## Note 
+
+This web app is still in development and has not yet been deployed
