@@ -5,13 +5,13 @@ You're just a search away
 
 # Requirements
 
--Django
--covid19_data
--requests
+Django,
+covid19_data,
+requests
 
 # API
 
--covid19_data
+covid19_data
 
 ### `python manage.py runserver`
 
